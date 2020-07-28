@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: rgb(189, 135, 240);
+    margin: auto;
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(194, 142, 243);
+    width: fit-content;
+    margin: auto;
+    text-align: left;
+    
+}
+
+h1 {
+    color: rgb(56, 1, 95);
+}
+
+h3 {
+    color: indigo;
+}
+
+.box h3 {
+    color: indigo;
+}
+
+.box li {
+    color: darkviolet;
+}
